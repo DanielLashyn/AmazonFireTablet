@@ -28,4 +28,5 @@ With that said this will be more of a guide and journal, then developing code.
 - Weather Panel
 - Workout Panel
 ## Resources
-
+- [Amazon Tablets are a Scam. Here's how to Fix Yours (Dammit Jeff)](https://www.youtube.com/watch?v=Mb9u4CDCyBo)
+  - Overview of use cases for an Amazon Fire Tablets
