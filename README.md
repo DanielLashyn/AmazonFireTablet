@@ -1,6 +1,7 @@
 # AmazonFireTablet
 Repository about different use cases for Amazon Fire Tablets 
 
+
 ## Introduction:
 
 I recently acquired a used Amazon Fire Tablet 8 inch HD (2020) model for $30 CDN on Ebay with the following specs:
@@ -14,6 +15,8 @@ These tablets run fire OS, on top  android os, meaning they could get access to 
 This repository is to show different use cases these tablet can do. Below are the different applications that I have done with the tablet. Each completed project will have a detailed instructions within their folder. 
 
 There is a section for future projects that I want to tackle. Along with resources that I found useful/interesting
+
+With that said this will be more of a guide and journal, then developing code. 
 
 ## Completed Projects
 
