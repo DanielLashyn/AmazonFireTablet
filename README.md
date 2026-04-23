@@ -1,5 +1,5 @@
 # AmazonFireTablet
-Repository about different use cases for Amazon Fire Tablets 
+Welcome to my repository of use cases for Amazon Fire Tablets. Goal of this repository is to have a guide of ways to repurpose an Amazon Fire Tablet. You are more then welcomed to give one of these projects a try.
 
 
 ## Introduction:
